@@ -1,0 +1,7 @@
+// clear input field after clicked on add button
+//add required validation on input field
+//show error msg while user click on add button with blank input
+//work on name convention
+//use child parent relation and break code in component
+//dont try to write long method
+//use reactive form for input field
